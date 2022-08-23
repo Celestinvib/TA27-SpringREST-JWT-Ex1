@@ -1,6 +1,8 @@
 # TA27-SpringREST-JWT-Ex1
 ### URIs endpoints:
-  
+
+Deploy-Heroku-JWT -> https://cka-ta27-ex1-jwt.herokuapp.com  
+
 ```
 Proveedores
 GET       /api/proveedores
